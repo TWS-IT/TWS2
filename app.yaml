@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: TWS2
+owner: tws-it
+package: .
+scaling:
+  mode: single_concurrency
